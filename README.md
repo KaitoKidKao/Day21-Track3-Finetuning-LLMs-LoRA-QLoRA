@@ -4,6 +4,8 @@
 > *"Khi nào nên fine-tune — và khi nào prompt engineering đủ rồi?"*  
 > Giảng viên: Nguyễn Khánh Linh · VinUniversity
 
+**Học viên**: Nguyễn Trí Cao - 2A202600223
+
 ---
 
 ## 📦 Cái gì có trong gói này
